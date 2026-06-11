@@ -47,6 +47,7 @@ first_name = "Tetiana"
 last_name = "Koltunova"
 full_name = first_name + " " + last_name
 full_name_2 = f"{first_name} {last_name}"
+
 print(full_name)
 print("My full name is", full_name_2)
 
